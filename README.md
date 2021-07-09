@@ -2,11 +2,11 @@
 I have experience working with Jira, Python, Sharepoint, and other programs.  
 This is a repository where I will upload some things I've found useful.  
 
-![usrm7's GitHub stats](https://github-readme-stats.vercel.app/api?username=usrm7&show_icons=true&theme=radical)
+![veevee77's GitHub stats](https://github-readme-stats.vercel.app/api?username=veevee77&show_icons=true&theme=radical)
 
 
 <!--
-**usrm7/usrm7** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**veevee77/veevee77** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
