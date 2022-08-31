@@ -1,5 +1,7 @@
 ### Hi there 👋
+This is a repository where I will upload some things I've found useful.  
 
+![veevee77's GitHub stats](https://github-readme-stats.vercel.app/api?username=veevee77&show_icons=true&theme=radical)
 <!--
 **veevee77/veevee77** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
